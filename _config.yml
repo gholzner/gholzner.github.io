@@ -1,1 +1,11 @@
-theme: jekyll-theme-hacker
+# basic options
+title: Upcycling Projects
+author: G Holzner
+email: your-email@domain.com
+description: A wonderful site
+# twitter_username: jekyllrb
+github_username:  gholzner
+
+# Build settings
+markdown: kramdown
+theme: minima
